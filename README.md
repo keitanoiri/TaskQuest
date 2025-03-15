@@ -1,0 +1,2 @@
+Assets/Scripts内のスクリプトの作成を担当
+主にRewardとToDoのシーンを担当
